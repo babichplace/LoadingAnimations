@@ -9,3 +9,8 @@
 [Loading spinner (SVG)](/loading_spinner_SVG.html)
 
 ![loading spinner SVG](/assets/images/loading_spinner_svg.gif)
+
+
+[Three Dots Loading](/dots.html)
+
+![three dots loading](/assets/images/dots.gif)
