@@ -1,7 +1,6 @@
 # Loading Animations for web projects
 
-Collection of popular web loading animations. Every animation is featured in its own file. 
-If you want to use the animations, you can download the file.
+Collection of popular web loading animations crated using only HTML & CSS. Every animation is featured in its own file. 
 
 ## Collection
 
