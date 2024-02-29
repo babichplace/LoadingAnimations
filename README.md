@@ -20,3 +20,7 @@ If you want to use the animations, you can download the file.
 [Jumping Ball Loading](/ball.html)
 
 ![jumping ball loading](/assets/images/ball.gif)
+
+[3D Cube Loading](/cube.html)
+
+![3D cube](/assets/images/cube.gif)
