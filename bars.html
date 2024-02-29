@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apple iOS style loading spinner</title>
+
+<style>
+
+body{
+  background:#070F2B;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color:#535C91;
+
+}
+
+.loading-animation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100px;
+  height: 50px;
+}
+
+
+/* Position to the center of the screen */
+
+.loading-animation {
+  position:absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.bar {
+  width: 10px;
+  height: 100%;
+  background-color: #FFFFFF;
+  animation: growShrink 1.2s infinite ease-in-out;
+}
+
+.bar:nth-child(1) {
+  animation-delay: -1.1s;
+}
+
+.bar:nth-child(2) {
+  animation-delay: -1.0s;
+}
+
+.bar:nth-child(3) {
+  animation-delay: -0.9s;
+}
+
+.bar:nth-child(4) {
+  animation-delay: -0.8s;
+}
+
+@keyframes growShrink {
+  0%, 40%, 100% {
+    transform: scaleY(0.4);
+  }
+  20% {
+    transform: scaleY(1.0);
+  }
+}
+
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="loading-animation">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+
+
+</body>
+</html>

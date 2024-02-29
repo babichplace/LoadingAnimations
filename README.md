@@ -21,6 +21,10 @@ If you want to use the animations, you can download the file.
 
 ![three dots loading](/assets/images/dots.gif)
 
+[Growing/Shrinking Bars](/bars.html)
+
+![bars](/assets/images/bars.gif)
+
 [Jumping Ball Loading](/ball.html)
 
 ![jumping ball loading](/assets/images/ball.gif)
