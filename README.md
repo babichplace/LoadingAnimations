@@ -13,6 +13,10 @@ If you want to use the animations, you can download the file.
 
 ![loading spinner SVG](/assets/images/loading_spinner_svg.gif)
 
+[Apple iOS loading spinner](/ios_spinner.html)
+
+![iOS spinner](/assets/images/ios_spinner.gif)
+
 [Three Dots Loading](/dots.html)
 
 ![three dots loading](/assets/images/dots.gif)
