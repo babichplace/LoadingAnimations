@@ -16,3 +16,7 @@ If you want to use the animations, you can download the file.
 [Three Dots Loading](/dots.html)
 
 ![three dots loading](/assets/images/dots.gif)
+
+[Jumping Ball Loading](/ball.html)
+
+![jumping ball loading](/assets/images/ball.gif)
