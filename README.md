@@ -1,5 +1,8 @@
 # Loading Animations for web projects
 
+Collection of popular web loading animations. Every animation is featured in its own file. 
+If you want to use the animations, you can download the file.
+
 ## Collection
 
 [Simple loading spinner (HTML & CSS)](/simple_spinner.html)
@@ -9,7 +12,6 @@
 [Loading spinner (SVG)](/loading_spinner_SVG.html)
 
 ![loading spinner SVG](/assets/images/loading_spinner_svg.gif)
-
 
 [Three Dots Loading](/dots.html)
 
