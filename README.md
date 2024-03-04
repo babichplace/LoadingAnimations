@@ -31,3 +31,7 @@ Collection of popular web loading animations crated using only HTML & CSS. Every
 [3D Cube Loading](/cube.html)
 
 ![3D cube](/assets/images/cube.gif)
+
+[Loading text](/loading_text.html)
+
+![Loading text](/assets/images/loading_text.gif)
