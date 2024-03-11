@@ -16,6 +16,10 @@ Collection of popular web loading animations crated using only HTML & CSS. Every
 
 ![iOS spinner](/assets/images/ios_spinner.gif)
 
+[Ripple effect](/ripple.html)
+
+![ripple loading animation effect](/assets/images/ripple.gif)
+
 [Three Dots Loading](/dots.html)
 
 ![three dots loading](/assets/images/dots.gif)
