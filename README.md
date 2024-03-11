@@ -18,7 +18,7 @@ Collection of popular web loading animations crated using only HTML & CSS. Every
 
 [Ripple effect](/ripple.html)
 
-![ripple loading animation effect](/assets/images/ripple.gif)
+![ripple loading animation](/assets/images/ripple.gif)
 
 [Three Dots Loading](/dots.html)
 
